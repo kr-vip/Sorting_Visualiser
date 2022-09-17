@@ -1,6 +1,8 @@
 # Sorting-Visualiser
 Built a website to visualize the working of various sorting algorithms using Javascript DOM manipulations and asynchronous functions. It supports the generation of random arrays of varying sizes and to visualize the algorithms at varying speeds.
 
+Website can be Accessed by this Link https://kr-vip.github.io/Sorting_Visualiser/
+
 This is the outlook the project:-
 ![Screenshot (28)](https://user-images.githubusercontent.com/112797190/190854413-828d6237-b4b9-46e8-9f44-84c468988944.png)
 Bubble Sort in action
